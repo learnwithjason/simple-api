@@ -1,0 +1,9 @@
+{
+	"dependencies": {
+		"@netlify/functions": "^1.6.0",
+		"zod": "^3.21.4"
+	},
+	"devDependencies": {
+		"@types/node": "^20.2.5"
+	}
+}
